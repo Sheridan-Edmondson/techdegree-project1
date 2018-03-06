@@ -1,0 +1,17 @@
+body{
+  font-family: "Arial";
+}
+
+.profile-image{
+  border: solid 4px lightblue;
+  border-radius: 50%;
+}
+
+h1 {
+  background-color:lightblue;
+  padding: 5px;
+}
+
+.section-title{
+  text-transform:uppercase;
+}
